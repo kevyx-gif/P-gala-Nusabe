@@ -1,2 +1,2 @@
-# P-gala-Nusabe
+# Pagala-Nusabe
 App android
